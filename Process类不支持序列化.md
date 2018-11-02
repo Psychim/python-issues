@@ -1,7 +1,7 @@
 python版本：3.7.0
 # 问题
 
-运行https://github.com/ssepulveda/RTGraph的demo时出现错误
+运行https://github.com/ssepulveda/RTGraph 的demo时出现错误
 ```
 TypeError: can't pickle weakref objects
 ```
